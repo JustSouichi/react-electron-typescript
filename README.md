@@ -12,6 +12,18 @@ or
 
 ### `yarn create react-app my-app --template typescript` 
 
+and then run 
+
+### `cd myapp` 
+
+and then
+
+### `npm install electron --save-dev`
+
+or
+
+### `yarn add --dev electron` 
+
 ### Second Step
 
 Create folder `electron` in main directory
